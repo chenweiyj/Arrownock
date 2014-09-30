@@ -120,7 +120,7 @@ Pod::Spec.new do |s|
 
   s.library   = "Arrownock"
   # s.libraries = "iconv", "xml2"
-
+  s.preserve_paths = "Arrownock/**/*.a"
 
   # ――― Project Settings ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
