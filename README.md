@@ -1,4 +1,4 @@
-ArrownockSDK
+Arrownock SDK
 ============
 
-ArrownockSDK iOS CocoaPods 
+Arrownock SDK iOS CocoaPods 
