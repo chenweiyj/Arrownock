@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "Arrownock"
-  s.version      = "2.16"
+  s.version      = "2.17"
   s.summary      = "Arrownock SDK iOS CocoaPods "
 
   s.description  = <<-DESC
@@ -78,7 +78,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/chenweiyj/Arrownock.git", :tag => "2.16" }
+  s.source       = { :git => "https://github.com/chenweiyj/Arrownock.git", :tag => "2.17" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
