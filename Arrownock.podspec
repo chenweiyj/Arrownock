@@ -118,7 +118,7 @@ Pod::Spec.new do |s|
   s.framework  = "Security"
   # s.frameworks = "SomeFramework", "AnotherFramework"
 
-  s.library   = "Arrownock"
+  #s.library   = "Arrownock"
   # s.libraries = "iconv", "xml2"
   s.vendored_library = "Arrownock/libArrownock.a"
 
